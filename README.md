@@ -14,7 +14,7 @@ A real-time chat application built with the MERN stack (MongoDB, Express, React,
 - ✅ User Authentication (JWT)
 - 💬 Real-Time Messaging (Socket.io)
 - ✍️ Typing Indicators
-- 📱 Fully Responsive UI
+- 📱 Fully Responsive Ui
 - 🧠 Modern React with Context API & Hooks
 - 📦 MongoDB for persistent data storage
 - ☁️ Cloudinary integration for media uploads
