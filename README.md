@@ -20,7 +20,6 @@ Features
 - ☁️ Cloudinary integration for media uploads
 
 
-
 ## 🖥️ Tech Stack
 
 | Frontend | Backend  | Real-time | Database | Cloud  |
