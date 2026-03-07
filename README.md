@@ -19,7 +19,6 @@ Features
 - 📦 MongoDB for persistent data storage
 - ☁️ Cloudinary integration for media uploads
 
-
 ## 🖥️ Tech Stack
 
 | Frontend | Backend  | Real-time | Database | Cloud  |
