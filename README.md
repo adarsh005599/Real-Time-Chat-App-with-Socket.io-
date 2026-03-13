@@ -25,4 +25,3 @@ Features
 |----------|----------|-----------|----------|--------|
 | React.js | Node.js  | Socket.io | MongoDB  | Cloudinary |
 | Tailwind | Express  |           | Mongoose | dotenv |
-
