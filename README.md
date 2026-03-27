@@ -10,7 +10,6 @@ A real-time chat application built with the MERN stack (MongoDB, Express, React,
 </p>
 
 Feature
-
 - ✅ User Authentication (JWT)
 - 💬 Real-Time Messaging (Socket.io)
 - ✍️ Typing Indicators
